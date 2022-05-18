@@ -1,16 +1,14 @@
 # SDEV-140-Project
 
-I still have quite a bit to do.
-I have completed one of the tasks that the program needs. 
-That task tells you how much you need to give back to the customer in a positive integer.
-Also, I did the ability to provide the product's price with sales tax, but I'm having issues with the printing part. 
-So, for the time being, it just says the number with no indications of what it is. 
+Cash Register User manual
 
-I still need to do the following:
+The employee will need to input if the customer is using **Cash** or **Card**. (The employee will have to type the same that is in bold)
 
--	Keep track of money that is given to the employee 
--	Tell how much cash is remaining if using cash instead of a credit card
+Next, the employee will need to enter the price of the items into the application
 
-The next step that I'm going to work on is being able to tell or give the option of using cash or credit. 
-Also, a new idea that might be helpful is what bills to give when giving change. 
-It might be somewhat difficult, but it's a cool feature that I didn't think of when coming up when ideas. 
+Lastly, the employee will need to enter the amount of money that was given to them. It should give you the amount of money that they would need to give back to the customer if they gave more. It also should tell you that what they payment method they used. 
+
+
+
+
+
